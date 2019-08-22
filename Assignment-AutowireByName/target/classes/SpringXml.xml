@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+        
+        <bean id = "Emp" class = "com.bean.classes.Emp" autowire="byName">
+     		<property name ="id" value="123"/>
+     		 <property name = "name" value = "subhash"/>
+   		</bean>
+	   <bean id = "purchaseDept" class = "com.bean.classes.PurchaseDept">
+	    <property name = "name" value = "PurchaseDept"/>
+	   </bean>
+	   
+	   <bean id = "salesDept" class = "com.bean.classes.SalesDept">
+	    <property name = "name" value = "SalesDept"/>
+	   </bean>
+</beans>

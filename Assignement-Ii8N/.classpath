@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/Spring jars/spring-webmvc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/apache-log4j-2.12.1-bin/apache-log4j-2.12.1-bin/Api and Core/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abridge Solutions/Downloads/apache-log4j-2.12.1-bin/apache-log4j-2.12.1-bin/Api and Core/log4j-core-2.12.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
